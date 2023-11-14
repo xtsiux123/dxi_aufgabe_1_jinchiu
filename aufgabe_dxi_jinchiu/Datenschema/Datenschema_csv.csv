@@ -1,0 +1,13 @@
+﻿Variablen;Datentyp;Skalierung;Wertebereich;Beschreibung
+q01;Zeichenkette;Nominalskaliert;"Strukturiert, [""männlich"", ""weiblich"", ""divers""]";"""Geschlecht:"""
+q02;Zeichenkette;Ordinalskaliert;"Strukturiert, [""18-24 Jahre"", ""25-34 Jahre"", ""35-44 Jahre""]";"""Altersgruppe:"""
+q03;Zeichenkette;Ordinalskaliert;"Strukturiert, [""Täglich"", ""Mehrmals pro Woche"", ""Einmal pro Woche"", ""Seltener"",""Ich erinnere mich nicht an meine Träume""]";"""Wie oft träumst du pro Woche?"""
+q04;Zeichenkette;Ordinalskaliert;"Strukturiert, [""Ja"", ""Teilweise"", ""Nein""]";"""Glaubst du, dass Träume eine besondere Bedeutung oder Botschaft haben?"""
+q05;Zeichenkette;Nominalskaliert;"Strukturiert, [""Ja"", ""Nein""]";“Hast du jemals versucht, deine Träume zu deuten oder zu analysieren?”
+q06;Zeichenkette;Nominalskaliert;"Strukturiert, [""Ja"", ""Nein""]";"""Weisst du was eine Ausserkörperliche Erfahrung ist?"""
+q07;Zeichenkette;Nominalskaliert;"Strukturiert, [""Angstträume"", ""Freudeträume"", ""Alpträume"", ""Klarträume (Träume, in denen du weisst, dass du träumst"",""Ausserkörperliche Erfahrungen""]";"""Welche Art von Träumen hast du in der Regel am meisten?"""
+q08;Zeichenkette;Ordinalskaliert;"Strukturiert, [""Ja, immer"", ""Meistens"", ""Manchmal"", ""Selten"", ""Nie""] ";"""Erinnerst du dich oft an deine Träume?"""
+q09;Zeichenkette;Nominalskaliert;"Strukturiert, [""Ja"", ""Nein""]";"""Hattest du schon wiederkehrende Träume?"""
+q10;Zeichenkette;Nominalskaliert;"Strukturiert, [""Ja"", ""Nein""]";"""Hast du jemals versucht, Träume aufzuschreiben oder zu zeichnen?"""
+q11;Zahlenwerte;Varianzskaliert;Strukturiert, natürliche Zahlen;"""Wie oft träumst du pro Jahr? (Tippe eine ungefähre Schätzung in Zahlen ein)"""
+q12;Zeichenkette;Ordinalskaliert;"Strukturiert, [""Ja"", ""Teilweise"", ""Nein""]";"""Träumst du grundsätzlich gerne?"""
